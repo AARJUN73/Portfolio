@@ -1,0 +1,12 @@
+
+        nav ul{
+            display:flex;
+            justify-content: space-around;
+            text-decoration: none;
+        }
+        body{
+            margin: 1% 2%;
+        }
+        fieldset{
+            border-radius: 10px;
+        }
